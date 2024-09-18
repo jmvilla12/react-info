@@ -23,11 +23,11 @@ This is a solution to the React info site project on [Scrimba](https://v2.scrimb
 
 ### Screenshot
 - Project view on a desktop device.
-<img src = "./public/screenshot_desktop.png" alt="screenshot_desktop" height="400px">
+<img src = "./public/screenshot.PNG" alt="screenshot" height="400px">
 
 ### Links
-- Live Site: [@Netlify](https://memegenerator-jmvilla12.netlify.app)
-- Source Code: [@Github](https://github.com/jmvilla12/meme-generator)
+- Live Site: [@Netlify](https://reactinfosite-jmvilla12.netlify.app)
+- Source Code: [@Github](https://github.com/jmvilla12/react-info)
 
 ### Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
