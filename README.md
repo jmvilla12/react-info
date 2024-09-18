@@ -1,4 +1,4 @@
-# Scrimba - Meme Generator
+# Scrimba - React Info Site
 This is a solution to the React info site project on [Scrimba](https://v2.scrimba.com/learn-react-c0e).
 
 ## Table of contents
